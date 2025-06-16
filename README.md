@@ -8,7 +8,7 @@ Este é um Projeto Mobile desenvolvido por alunos do Centro Universitário de Br
 O iBarber é uma plataforma web e mobile criada para facilitar o contato entre clientes e barbearias, centralizando informações detalhadas sobre serviços, agendamentos online, comunicação direta e opções de atendimento domiciliar. O projeto resolve problemas comuns como falta de padronização, dificuldade de agendar horários e baixa divulgação de benefícios extras, tornando o processo mais prático e confiável.
 # Objetivo
 Este projeto tem como objetivo desenvolver uma plataforma que facilite a comunicação entre clientes e prestadores de serviços, melhorando a experiência do usuário e otimizando o processo de contratação.
-#Público-Alvo
+# Público-Alvo
 O público-alvo do iBarber são clientes que buscam praticidade e qualidade ao contratar serviços de barbearia, além de barbeiros autônomos e barbearias de todos os portes que desejam divulgar seus serviços, atrair mais clientes e gerenciar agendamentos de forma organizada e eficiente.
 # Funcionalidades 
 - **Sistema de Cadastro e Login:** Permite o cadastro de novos clientes com informações pessoais e de contato.
@@ -19,23 +19,23 @@ O público-alvo do iBarber são clientes que buscam praticidade e qualidade ao c
 - **Geolocalização:** Sistema de localização para mostrar a distância entre o cliente e o empregado e a opção de selecionar empregados baseados na proximidade geográfica.
 - **Atendimento Domiciliar:** Opção para que os clientes solicitem atendimento em domicílio e Agenda de disponibilidade dos empregados para serviços domiciliares. 
 - **Benefícios Adicionais:** Listagem de possíveis benefícios oferecidos pelo estabelecimento, como bebidas, jogos e outros tipos de entretenimento. 
-#Arquiteturas e Tecnologias
+# Arquiteturas e Tecnologias
 O iBarber é uma aplicação mobile desenvolvida no Android Studio, voltada exclusivamente para dispositivos Android, aproveitando os recursos nativos da plataforma para garantir melhor desempenho e experiência do usuário. Toda a lógica de backend e autenticação é estruturada com Firebase, que gerencia o cadastro de usuários, agendamentos e armazenamento de dados em nuvem de forma segura. As funcionalidades de localização e cálculo de distância entre cliente e barbearia são integradas por meio da API do Google Maps. A prototipação da interface foi feita no Figma, e o mapeamento dos processos de negócio foi realizado com o Bizagi.
 **Requisitos Não Funcionais**
--Atualização de dados de forma imediata e com registro histórico.
+- Atualização de dados de forma imediata e com registro histórico.
 
--Compatibilidade com dispositivos Android.
+- Compatibilidade com dispositivos Android.
 
--Interface responsiva, com layout intuitivo e fácil de usar.
+- Interface responsiva, com layout intuitivo e fácil de usar.
 
--Atender aos princípios de usabilidade e experiência do usuário (UX).
+- Atender aos princípios de usabilidade e experiência do usuário (UX).
 
--Realização de backups periódicos para segurança dos dados.
+- Realização de backups periódicos para segurança dos dados.
 
--Escalabilidade para suportar grande volume de usuários e dados.
+- Escalabilidade para suportar grande volume de usuários e dados.
 
--Permitir manutenção e atualizações sem impactar os serviços.
-#Como Usar
+- Permitir manutenção e atualizações sem impactar os serviços.
+# Como Usar
 
 1.Baixe o aplicativo:
 Instale o iBarber em seu dispositivo Android diretamente pela Play Store ou utilizando o arquivo APK disponibilizado pelo desenvolvedor.
@@ -58,12 +58,12 @@ Utilize o chat ou botão de ligação para tirar dúvidas ou ajustar detalhes co
 7.Acompanhe e avalie:
 No dia agendado, compareça ao local ou receba o atendimento em casa (caso disponível). Após o serviço, avalie sua experiência no aplicativo.
 
-#Equipe de Desenvolvimento
+# Equipe de Desenvolvimento
 -Gabriel Viana J. Silva
 -Filipe Ali de Sousa
 -Vitor Szervinsks Wandalsen
 
-#Diagramas
+# Diagramas
 
 1.Caso e Uso
 2.Diagrama de Classe
