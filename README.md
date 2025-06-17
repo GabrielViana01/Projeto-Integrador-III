@@ -92,7 +92,7 @@ No dia agendado, compareça ao local ou receba o atendimento em casa (caso dispo
 
 **1. Caso e Uso**
 
-![Captura de tela 2025-06-16 220618](https://github.com/user-attachments/assets/806c2dc2-ba95-47cf-9df0-f3ce3be71b5d)
+![Captura de tela 2025-06-17 090518](https://github.com/user-attachments/assets/de5f8289-6c5a-465e-9d9e-b069a2207d0c)
 
 **2. Diagrama de Classe**
 
