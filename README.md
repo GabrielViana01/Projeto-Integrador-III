@@ -97,7 +97,7 @@ No dia agendado, compareça ao local ou receba o atendimento em casa (caso dispo
 
 ![Captura de tela 2025-06-16 215851](https://github.com/user-attachments/assets/5902f8e2-e49b-44b7-86bb-0379cc15c18f)
 
-**2.Diagrama de Atividades**
+**3. Diagrama de Atividades**
 
 ![image](https://github.com/user-attachments/assets/01d218d8-4039-4094-9a3f-a8241077ec01)
 
