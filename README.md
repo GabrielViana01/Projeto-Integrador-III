@@ -2,6 +2,20 @@
 
 O iBarber é um sistema de barbearia confeccionado durante as aulas de **projeto integrador do Centro Universitário de Brasília (UniCEUB).**
 
+![Captura de tela 2025-06-16 221004](https://github.com/user-attachments/assets/61558b1c-6e17-4946-8d2d-5b6672bafb10)
+
+
+## Índice
+
+1. [Descrição](#descrição)
+2. [Objetivo](#tecnologias)
+3. [Público-Alvo](#público-alvo)
+4. [Funcionalidades](#funcionalidades)
+5. [Arquiteturas e Tecnologias](#arquitetura-e-tecnologias)
+6. [Como Usar](#como-usar)
+7. [Equipe de Desenvolvimento](#equipe-de-desenvolvimento)
+8. [Diagramas](#diagramas)
+
 # Descrição
 Este é um Projeto Mobile desenvolvido por alunos do Centro Universitário de Brasília (UniCEUB), com objetivo de criar um aplicativo que revolucione o mercado digital na àrea masculina, entre uma faixa etária de 16 à 50 anos. Os colaboradores do projeto são: Vitor Szervinsks, Gabriel Viana e Filipe Ali.
 # Visão Geral do Projeto
