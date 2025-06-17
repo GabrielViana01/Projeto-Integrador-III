@@ -15,7 +15,8 @@ O iBarber é um sistema de barbearia confeccionado durante as aulas de **projeto
 6. [Como Usar](#como-usar)
 7. [Equipe de Desenvolvimento](#equipe-de-desenvolvimento)
 8. [Diagramas](#diagramas)
-9. [Protótipo de Alta Fidelidade](#protótipo-de-alta-fidelidade)
+9. [Banco de Dados](#banco-de-dados)
+10. [Protótipo de Alta Fidelidade](#protótipo-de-alta-fidelidade)
 
 # Descrição
 Este é um Projeto Mobile desenvolvido por alunos do Centro Universitário de Brasília (UniCEUB), com objetivo de criar um aplicativo que revolucione o mercado digital na àrea masculina, entre uma faixa etária de 16 à 50 anos. Os colaboradores do projeto são: Vitor Szervinsks, Gabriel Viana e Filipe Ali.
@@ -95,6 +96,20 @@ No dia agendado, compareça ao local ou receba o atendimento em casa (caso dispo
 **2.Diagrama de Classe**
 
 ![Captura de tela 2025-06-16 215851](https://github.com/user-attachments/assets/5902f8e2-e49b-44b7-86bb-0379cc15c18f)
+
+# Banco de Dados
+
+**Modelo Conceitual**
+
+![Captura de tela 2025-06-16 222650](https://github.com/user-attachments/assets/221e985b-d6a5-4b02-a678-2fed003a2343)
+
+**Modelo Lógico**
+
+![Captura de tela 2025-06-16 222744](https://github.com/user-attachments/assets/4b82d361-e79e-43fa-a0cf-b5cd6c492409)
+
+**Modelo Físico**
+
+![Captura de tela 2025-06-16 222838](https://github.com/user-attachments/assets/daeec812-8cf9-48a2-be62-cbe0beae48bc)
 
 # Protótipo de Alta Fidelidade
 
