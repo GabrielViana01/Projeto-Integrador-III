@@ -75,6 +75,8 @@ No dia agendado, compareça ao local ou receba o atendimento em casa (caso dispo
 
 **1.Caso e Uso**
 
+![Captura de tela 2025-06-16 220618](https://github.com/user-attachments/assets/806c2dc2-ba95-47cf-9df0-f3ce3be71b5d)
 
 **2.Diagrama de Classe**
 
+![Captura de tela 2025-06-16 215851](https://github.com/user-attachments/assets/5902f8e2-e49b-44b7-86bb-0379cc15c18f)
