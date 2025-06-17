@@ -89,11 +89,11 @@ No dia agendado, compareça ao local ou receba o atendimento em casa (caso dispo
 
 # Diagramas
 
-**1.Caso e Uso**
+**1. Caso e Uso**
 
 ![Captura de tela 2025-06-16 220618](https://github.com/user-attachments/assets/806c2dc2-ba95-47cf-9df0-f3ce3be71b5d)
 
-**2.Diagrama de Classe**
+**2. Diagrama de Classe**
 
 ![Captura de tela 2025-06-16 215851](https://github.com/user-attachments/assets/5902f8e2-e49b-44b7-86bb-0379cc15c18f)
 
@@ -103,15 +103,15 @@ No dia agendado, compareça ao local ou receba o atendimento em casa (caso dispo
 
 # Banco de Dados
 
-**Modelo Conceitual**
+**1. Modelo Conceitual**
 
 ![Captura de tela 2025-06-16 222650](https://github.com/user-attachments/assets/221e985b-d6a5-4b02-a678-2fed003a2343)
 
-**Modelo Lógico**
+**2. Modelo Lógico**
 
 ![Captura de tela 2025-06-16 222744](https://github.com/user-attachments/assets/4b82d361-e79e-43fa-a0cf-b5cd6c492409)
 
-**Modelo Físico**
+**3. Modelo Físico**
 
 ![Captura de tela 2025-06-16 222838](https://github.com/user-attachments/assets/daeec812-8cf9-48a2-be62-cbe0beae48bc)
 
