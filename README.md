@@ -53,30 +53,30 @@ O iBarber é uma aplicação mobile desenvolvida no Android Studio, voltada excl
 - Permitir manutenção e atualizações sem impactar os serviços.
 # Como Usar
 
-**1.Baixe o aplicativo:**
+**1. Baixe o aplicativo:**
 
 Instale o iBarber em seu dispositivo Android diretamente pela Play Store ou utilizando o arquivo APK disponibilizado pelo desenvolvedor.
 
-**2.Crie sua conta:**
+**2. Crie sua conta:**
 
 Abra o aplicativo, cadastre-se informando seus dados básicos e valide seu e-mail ou número de telefone, caso solicitado.
 
-**3.Faça login:**
+**3. Faça login:**
 
 Acesse sua conta com seu usuário e senha cadastrados.
 
-**4.Explore os serviços:**
+**4. Explore os serviços:**
 Navegue pela lista de barbeiros e barbearias disponíveis, visualize informações detalhadas, benefícios oferecidos e a distância até o local.
 
-**5.Agende seu horário:**
+**5. Agende seu horário:**
 
 Escolha o serviço desejado, selecione o dia e horário disponíveis e confirme o agendamento pelo próprio app.
 
-**6.Comunique-se diretamente:**
+**6. Comunique-se diretamente:**
 
 Utilize o chat ou botão de ligação para tirar dúvidas ou ajustar detalhes com o barbeiro, se necessário.
 
-**7.Acompanhe e avalie:**
+**7. Acompanhe e avalie:**
 
 No dia agendado, compareça ao local ou receba o atendimento em casa (caso disponível). Após o serviço, avalie sua experiência no aplicativo.
 
